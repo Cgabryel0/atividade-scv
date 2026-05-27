@@ -4,9 +4,11 @@
   <tr>
     <th>Nome</th>
     <th>Cidade natal</th>
+    <th>Perfil</th>
   </tr>
   <tr>
-    <td>Rodrigo</td>
-    <td>Maceio</td>
+    <td>Thaís</td>
+    <td>Recife</td>
+    <td>https://github.com/taburity</td>
   </tr>
 </table>

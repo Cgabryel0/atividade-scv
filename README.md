@@ -9,6 +9,10 @@
   <tr>
     <td>Thaís</td>
     <td>Recife</td>
-    <td>https://github.com/taburity</td>
+    <td>
+      <a href="https://github.com/taburity">
+          github.com/taburity
+        </a>
+    </td>
   </tr>
 </table>

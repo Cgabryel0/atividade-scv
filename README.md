@@ -7,11 +7,11 @@
     <th>Perfil</th>
   </tr>
   <tr>
-    <td>Thaís</td>
-    <td>Recife</td>
+    <td>Gabryel</td>
+    <td>Garanhuns</td>
     <td>
-      <a href="https://github.com/taburity">
-          github.com/taburity
+      <a href="https://github.com/cgabryel0">
+          github.com/cgabryel0
         </a>
     </td>
   </tr>
